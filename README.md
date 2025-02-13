@@ -96,22 +96,19 @@
 ## 🤝 **Let's Connect & Build Together!**  
 
 ## 🚀 Let's Connect!
-## 🚀 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/nagendrasriram103">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40px" />
+  <a href="https://www.linkedin.com/in/nagendrasriram103" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50px" style="border-radius: 10px;"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/Nagendrasriram">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40px" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nagendrasriram" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50px" style="border-radius: 10px;"/>
   </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Nagendra103">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="50px" />
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com//@Nagendra103" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="50px" style="border-radius: 10px;"/>
   </a>
 </p>
-
-
 
 ---
 
