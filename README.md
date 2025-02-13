@@ -105,7 +105,7 @@
 | **Smart Electricity Billing System** | Java, JDBC, SQL | [🔗 View Project](https://github.com/Nagendrasriram/Electricity-Billing-system-) |
 | **Diabetic Retinopathy Detection** | Python, TensorFlow, Web App | [🔗 View Project](https://github.com/Nagendrasriram/Diabetic-Retinopathy) |
 | **Dynamic Resume Website** | HTML, CSS, JavaScript | [🔗 View Portfolio](https://portfolio-eight-sandy-19.vercel.app/) |
-| **Memory Management Games** | C, OS Concepts | [🔗 View Project](https://github.com/Nagendrasriram/Memory-Management-Games) |
+| **Memory Management Games** | C, OS Concepts | [🔗 View Project](https://github.com/Nagendrasriram/MemoryMatchingGame) |
 
 🚀 **Check out more projects** ➡ **[HERE](https://github.com/Nagendrasriram?tab=repositories)!**  
 
