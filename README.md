@@ -72,7 +72,7 @@
 | **Smart Electricity Billing System** | Java, JDBC, SQL | [🔗 View Project](https://github.com/Nagendrasriram/Electricity-Billing-system-) |
 | **Diabatic-Retinopathy** | Python, Webapp, Tensorflow, JavaScript | [🔗 View Project](https://github.com/Nagendrasriram/Diabatic-Retinopathy) |
 | **Dynamic Resume Website** | HTML, CSS, JavaScript | [🔗 View Portfolio](https://portfolio-eight-sandy-19.vercel.app/) |
-| **Memory Management Games (OS Expo)** | C, OS Concepts | [🔗 View Project](https://github.com/Nagendrasriram/OS-Expo-Game) |
+| **Memory Management Games** | C, OS Concepts | [🔗 View Project](https://github.com/Nagendrasriram/Memory-Management-Games/tree/main) |
 
 🚀 **Check out more projects** ➡ **[HERE](https://github.com/Nagendrasriram?tab=repositories)!**  
 
