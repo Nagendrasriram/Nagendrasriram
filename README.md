@@ -69,9 +69,9 @@
 
 | 🚀 Project | 💡 Tech Stack | 🔗 Live Demo |
 |------------|-------------|-------------|
-| **Smart Electricity Billing System** | Java, JDBC, SQL | [🔗 View Project](https://github.com/Nagendrasriram/Electricity-Billing-System) |
-| **Interactive Car Rental System** | HTML, CSS, JavaScript | [🔗 View Project](https://github.com/Nagendrasriram/Car-Rental-System) |
-| **Dynamic Resume Website** | HTML, CSS, JavaScript | [🔗 View Portfolio](https://nagendrasriram.github.io/Portfolio/) |
+| **Smart Electricity Billing System** | Java, JDBC, SQL | [🔗 View Project](https://github.com/Nagendrasriram/Electricity-Billing-system-) |
+| **Diabatic-Retinopathy** | Python, Webapp, Tensorflow, JavaScript | [🔗 View Project](https://github.com/Nagendrasriram/Diabatic-Retinopathy) |
+| **Dynamic Resume Website** | HTML, CSS, JavaScript | [🔗 View Portfolio](https://portfolio-eight-sandy-19.vercel.app/) |
 | **Memory Management Games (OS Expo)** | C, OS Concepts | [🔗 View Project](https://github.com/Nagendrasriram/OS-Expo-Game) |
 
 🚀 **Check out more projects** ➡ **[HERE](https://github.com/Nagendrasriram?tab=repositories)!**  
@@ -104,7 +104,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nagendrasriram103"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Nagendrasriram"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://nagendrasriram.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://portfolio-eight-sandy-19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
 </p>
 
 ---
