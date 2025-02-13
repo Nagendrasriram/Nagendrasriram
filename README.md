@@ -95,11 +95,21 @@
 
 ## 🤝 **Let's Connect & Build Together!**  
 
+## 🚀 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/nagendrasriram103"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Nagendrasriram"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://portfolio-eight-sandy-19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nagendrasriram103">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40px" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Nagendrasriram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40px" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/YOUR_CHANNEL_HERE">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="40px" />
+  </a>
 </p>
+
 
 ---
 
