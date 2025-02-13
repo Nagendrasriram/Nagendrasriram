@@ -1,6 +1,6 @@
 <!-- 🔥 EPIC TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%23F7D00C&center=true&vCenter=true&width=900&height=60&lines=🚀+Welcome+to+My+Code+Empire!;🔥+Mastering+Java+Full+Stack+Development;💡+Innovating+with+Technology;💻+Building+the+Future,+One+Line+at+a+Time;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%23F7D00C&center=true&vCenter=true&width=900&height=60&lines=🚀+Welcome+to+My+Code+Empire!;🔥+Mastering+Java+Full+Stack+Development;💡+Innovating+with+Technology;💻+Building+the+Future,+One+Line+at+a+Time;"/>
 </p>
 
 <!-- 🏆 BADGES & PROFILE VISITS -->
@@ -30,38 +30,32 @@
 
 ---
 
-## 🛠 Tech Stack & Tools  
+## 🛠 **Tech Stack & Tools**  
 
-### 🚀 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### 🚀 **Languages & Frameworks**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px"/>
+</p>
 
-### 🛠 Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
+### 🛠 **Databases & Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
+</p>
 
 ---
 
 ## ⚡ **Java Expertise – The Core Powerhouse**
-🔹 **Object-Oriented Programming (OOP):** Mastering encapsulation, polymorphism, abstraction & inheritance.  
-🔹 **Java Collections Framework:** HashMap, ArrayList, LinkedList, PriorityQueue – because data structures matter!  
-🔹 **Multithreading & Concurrency:** Optimizing performance with Runnable, ThreadPool, Locks, and Executors.  
-🔹 **Java 8+ Features:** Streams API, Lambda Expressions, Functional Interfaces, Optional Class.  
-🔹 **JDBC & Hibernate:** Efficient database connections with ORM for seamless CRUD operations.  
-🔹 **Spring Boot Mastery:** Building robust, secure microservices with REST APIs, JWT Authentication & Swagger.  
-🔹 **Design Patterns:** Singleton, Factory, Observer, MVC – writing maintainable, scalable code.  
-🔹 **Unit Testing & Debugging:** JUnit, Mockito – making sure nothing breaks!  
+✅ **OOP Concepts** | ✅ **Java Collections Framework** | ✅ **Multithreading & Concurrency**  
+✅ **Java 8+ Features** | ✅ **Spring Boot Microservices** | ✅ **JDBC & Hibernate**  
+✅ **Design Patterns** | ✅ **Unit Testing & Debugging**  
 
 ---
 
@@ -70,9 +64,9 @@
 | 🚀 Project | 💡 Tech Stack | 🔗 Live Demo |
 |------------|-------------|-------------|
 | **Smart Electricity Billing System** | Java, JDBC, SQL | [🔗 View Project](https://github.com/Nagendrasriram/Electricity-Billing-system-) |
-| **Diabatic-Retinopathy** | Python, Webapp, Tensorflow, JavaScript | [🔗 View Project](https://github.com/Nagendrasriram/Diabatic-Retinopathy) |
+| **Diabetic Retinopathy Detection** | Python, TensorFlow, Web App | [🔗 View Project](https://github.com/Nagendrasriram/Diabetic-Retinopathy) |
 | **Dynamic Resume Website** | HTML, CSS, JavaScript | [🔗 View Portfolio](https://portfolio-eight-sandy-19.vercel.app/) |
-| **Memory Management Games** | C, OS Concepts | [🔗 View Project](https://github.com/Nagendrasriram/Memory-Management-Games/tree/main) |
+| **Memory Management Games** | C, OS Concepts | [🔗 View Project](https://github.com/Nagendrasriram/Memory-Management-Games) |
 
 🚀 **Check out more projects** ➡ **[HERE](https://github.com/Nagendrasriram?tab=repositories)!**  
 
@@ -91,11 +85,11 @@
 ---
 
 ## 🎯 **2025 Goals**  
-🔹 **Master Advanced Java DSA (LeetCode, CodeChef, GeeksforGeeks)**  
-🔹 **Build High-Performance Scalable Apps with Spring Boot & Microservices**  
-🔹 **Deep Dive into AI, Machine Learning, and Blockchain**  
-🔹 **Contribute to Open Source & Publish Tech Articles**  
-🔹 **Start YouTube Channel for Java & Tech Tutorials** 🎥  
+✔️ **Master Advanced Java DSA** (LeetCode, CodeChef, GeeksforGeeks)  
+✔️ **Build Scalable Apps with Spring Boot & Microservices**  
+✔️ **Explore AI, ML, and Blockchain**  
+✔️ **Contribute to Open Source & Publish Tech Articles**  
+✔️ **Start a YouTube Channel for Java & Tech Tutorials** 🎥  
 
 ---
 
