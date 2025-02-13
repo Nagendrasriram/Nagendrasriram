@@ -1,36 +1,38 @@
-<!-- 🚀 Animated Banner -->
+<!-- 🦾 Epic Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=%23F7D00C&center=true&vCenter=true&width=600&height=60&lines=Hey,+I'm+Nagendra+Sriram!;🚀+Java+Full+Stack+Developer;🌐+Web+Innovator;💡+Tech+Explorer+|+Open-Source+Contributor;⚡+Building+Next-Gen+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%23F7D00C&center=true&vCenter=true&width=800&height=60&lines=🚀+Welcome+to+My+Digital+Empire;🔥+Building+The+Future+of+Tech;💡+Innovate+|+Code+|+Create+|+Inspire;⚡+Mastering+Java+Full+Stack+Development!">
 </p>
 
-<!-- Header -->
+<!-- ⚡ Epic Header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="40px"> Hey, I'm Nagendra Sriram! 👨‍💻
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey, I'm Nagendra Sriram! 👨‍💻⚡
 </h1>
 <h3 align="center">
-  🌟 Full Stack Java Developer | 🌐 Web Innovator | 🎓 CSE @ SRMIST | 📊 ACM-W Board Member
+  🌟 Full Stack Java Developer | 🚀 Tech Visionary | 🎓 CSE @ SRMIST | 📊 ACM-W Board Member
 </h3>
 
+<!-- 🚀 Profile Views & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nagendrasriram&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nagendrasriram&label=Profile+Visitors&color=F77D0C&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Nagendrasriram?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=flat&logo=open-source-initiative" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23F7D00C?style=flat&logo=open-source-initiative" />
+  <img src="https://img.shields.io/badge/Future%20CTO%20👨‍💻-%2300E676?style=flat&logo=android" />
 </p>
 
 ---
 
 ## 🌟 Who Am I?  
 
-🔥 **Code Artisan** – Crafting immersive, **high-performance applications**.  
-💡 **Problem Solver** – Passionate about **DSA, System Design, & AI**.  
-🚀 **Tech Explorer** – Building next-gen **full-stack applications**.  
-🎯 **Mission** – Inspire devs & create **impactful projects**.  
+💡 **Tech Explorer** – Passionate about **building, innovating, and inspiring**.  
+🔥 **Coding Gladiator** – Solving **complex problems with clean & efficient code**.  
+🚀 **Mission** – To **revolutionize the tech world** with impactful projects.  
+🎯 **Mantra** – "Code. Build. Disrupt. Repeat."  
 
-> "Every great developer you know got there by solving problems they were unqualified to solve—until they actually did it." – Patrick McKenzie  
+> *"The people who are crazy enough to think they can change the world are the ones who do."* – Steve Jobs  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🚀 My Tech Arsenal  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,html,css,django,bootstrap,git,github,mysql,mongodb,vscode,postman,linux" />
@@ -38,48 +40,54 @@
 
 ---
 
-## 🔥 Featured Projects  
+## 🔥 **Projects That Speak for Themselves**  
 
 | 🚀 Project | 💡 Tech Stack | 🔗 Live Demo |
 |------------|-------------|-------------|
 | **Smart Electricity Billing System** | Java, JDBC, SQL | [🔗 View Project](https://github.com/Nagendrasriram/Electricity-Billing-System) |
 | **Interactive Car Rental System** | HTML, CSS, JavaScript | [🔗 View Project](https://github.com/Nagendrasriram/Car-Rental-System) |
 | **Dynamic Resume Website** | HTML, CSS, JavaScript | [🔗 View Portfolio](https://nagendrasriram.github.io/Portfolio/) |
-| **Memory Management Games** | C, OS Concepts | [🔗 View Project](https://github.com/Nagendrasriram/OS-Expo-Game) |
+| **Memory Management Games (OS Expo)** | C, OS Concepts | [🔗 View Project](https://github.com/Nagendrasriram/OS-Expo-Game) |
 
-🚀 **More projects?** Check them out **[here](https://github.com/Nagendrasriram?tab=repositories)!**  
+🚀 **Check out more projects** ➡ **[HERE](https://github.com/Nagendrasriram?tab=repositories)!**  
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats – Because Numbers Don't Lie  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagendrasriram&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nagendrasriram&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagendrasriram&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagendrasriram&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendrasriram&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendrasriram&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 ---
 
-## 🚀 Current Goals  
+## 🚀 **Goals for 2025**  
 
-🔹 **Master DSA in Java** (LeetCode 🔥)  
+🔹 **Master Advanced DSA in Java** (LeetCode 🔥)  
 🔹 **Build full-stack scalable applications**  
-🔹 **Explore AI, ML & Blockchain**  
-🔹 **Create YouTube content on tech & dev** 🎥  
+🔹 **Dive into AI, ML & Blockchain**  
+🔹 **Create Dev Content on YouTube** 🎥  
 
 ---
 
-## 📬 Let's Connect & Collaborate  
+## 📬 **Connect & Collaborate with Me**  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nagendrasriram103"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Nagendrasriram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://nagendrasriram.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nagendrasriram103"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Nagendrasriram"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://nagendrasriram.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
 </p>
 
 ---
 
-**🔥 Keep Coding, Keep Innovating! 🚀**  
+## 🎯 **"Code Hard. Dream Big. Dominate Tech." 🚀**  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/1xVbz1YgxRyRj8IHR6/giphy.gif" width="600px">
+</p>
+
+---
