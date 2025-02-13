@@ -96,19 +96,21 @@
 ## 🤝 **Let's Connect & Build Together!**  
 
 ## 🚀 Let's Connect!
+## 🚀 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/nagendrasriram103">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40px" />
   </a>
   &nbsp;
   <a href="https://github.com/Nagendrasriram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40px" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40px" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/YOUR_CHANNEL_HERE">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="40px" />
+  <a href="https://www.youtube.com/@Nagendra103">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="50px" />
   </a>
 </p>
+
 
 
 ---
