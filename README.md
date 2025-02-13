@@ -30,16 +30,26 @@
 
 ---
 
-## 🌟 **Tech Mastery**  
+## 🛠 Tech Stack & Tools  
 
-### 🚀 **Languages & Frameworks**  
-✅ **Java** (OOP, Collections, Streams, Lambda, Multithreading, JDBC, Generics)  
-✅ **Spring Boot** (REST APIs, Microservices, Security, JPA, Hibernate)  
-✅ **Python** (Data Science, Flask, Tkinter)  
-✅ **Web Dev:** HTML, CSS, JavaScript, React, Bootstrap, Django  
-✅ **Databases:** MySQL, MongoDB  
-✅ **Version Control:** Git, GitHub  
-✅ **Cloud & DevOps:** Docker, AWS, CI/CD Pipelines  
+### 🚀 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🛠 Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ---
 
