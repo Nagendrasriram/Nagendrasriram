@@ -106,7 +106,8 @@
 ## 🎯 **"Code Hard. Dream Big. Dominate Tech." 🚀**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1xVbz1YgxRyRj8IHR6/giphy.gif" width="600px">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600px">
 </p>
+
 
 ---
