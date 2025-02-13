@@ -97,16 +97,17 @@
 
 ## 🚀 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/nagendrasriram103" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50px" style="border-radius: 10px;"/>
+  <a href="https://www.linkedin.com/in/nagendrasriram103">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Nagendrasriram" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50px" style="border-radius: 10px;"/>
+  <a href="https://github.com/Nagendrasriram">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com//@Nagendra103" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="50px" style="border-radius: 10px;"/>
+  <a href="https://www.youtube.com/@Nagendra103">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://portfolio-eight-sandy-19.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white">
   </a>
 </p>
 
