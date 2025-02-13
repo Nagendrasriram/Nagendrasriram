@@ -1,64 +1,61 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Nagendrasriram/Nagendrasriram/assets/your-image.gif" width="100%" alt="Nagendra Sriram - Java Full Stack Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=%23F7D00C&center=true&vCenter=true&width=500&height=60&lines=Hey,+I'm+Nagendra+Sriram!;Java+Full+Stack+Developer;Web+Innovator+🚀;Tech+Explorer+%7C+Open-Source+Contributor;Let's+Build+Something+Legendary!+🔥" alt="Typing SVG">
 </p>
 
-<h1 align="center">🚀 Hey there, I'm <span style="color:#ff9800">Nagendra Sriram</span>! 👨‍💻</h1>
-<h3 align="center">🌟 Full Stack Java Developer | 🌐 Web Innovator | 🎓 CSE Student @ SRMIST | 📊 Board Member @ ACM-W</h3>
+<!-- About Me -->
+<h1 align="center">🚀 Hey, I'm Nagendra Sriram! 👨‍💻</h1>
+<h3 align="center">🌟 Full Stack Java Developer | 🌐 Web Innovator | 🎓 CSE @ SRMIST | 📊 ACM-W Board Member</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nagendrasriram&label=Visitors&color=0e75b6&style=flat" alt="Nagendrasriram" />
+  <img src="https://img.shields.io/github/followers/Nagendrasriram?label=Followers&style=social" />
+</p>
 
 ---
 
-## 🎯 About Me  
-🛠️ **Tech Explorer, Innovator & Code Craftsman**  
-I build **high-performance, immersive web applications** that merge **creativity with logic**. Whether it's a **stunning UI, a robust backend, or scalable databases**, I thrive on challenges that **push the boundaries of technology**.  
+## 🌟 Who Am I?  
 
-🔥 **Passionate about Full Stack Development, AI, and System Architecture**  
-💡 **Constantly learning and exploring cutting-edge technologies**  
-🚀 **Turning ideas into reality through clean & efficient code**  
-🎯 **On a mission to build the future, one commit at a time!**  
+🔥 **Code Artisan** – Turning ideas into **scalable, high-performance applications**.  
+💡 **Problem Solver** – Passionate about **innovative solutions & open-source contributions**.  
+🚀 **Explorer** – Learning **DSA, System Design, & AI** to craft the future of tech.  
+🎯 **Mission** – Build **groundbreaking projects**, create impact, and **inspire developers**.  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-### 🚀 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### 🚀 Languages & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,html,css,django" />
+</p>
 
-### 🛠️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Databases & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,figma,linux" />
+</p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🔥 Featured Projects  
 
-🔥 **Smart Electricity Billing System** – Built with **Java, JDBC, SQL**  
-🎨 **Interactive Car Rental System** – **Designed for seamless user experience**  
-📄 **Dynamic Resume Website** – Showcasing my skills & achievements  
-🧠 **Memory Management Games** – Designed for an **OS Expo to challenge minds**  
+🌟 **[Smart Electricity Billing System](https://github.com/Nagendrasriram/Electricity-Billing-System)** – Built with **Java, JDBC, SQL**  
+🚗 **[Interactive Car Rental System](https://github.com/Nagendrasriram/Car-Rental-System)** – **Stunning UI & seamless functionality**  
+🌐 **[Dynamic Resume Website](https://nagendrasriram.github.io/Portfolio/)** – **Personal portfolio showcasing my work**  
+🧠 **[Memory Management Games](https://github.com/Nagendrasriram/OS-Expo-Game)** – **Designed for OS Expo to challenge minds!**  
 
-📌 **More cool projects?** Check them out **[here](https://github.com/Nagendrasriram?tab=repositories)!** 🚀  
+📌 **More projects?** Check them out **[here](https://github.com/Nagendrasriram?tab=repositories)!** 🚀  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagendrasriram&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nagendrasriram&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagendrasriram&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagendrasriram&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendrasriram&layout=compact&theme=radical" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendrasriram&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </p>
 
 ---
@@ -67,16 +64,14 @@ I build **high-performance, immersive web applications** that merge **creativity
 
 🚀 **Master DSA in Java** (LeetCode Grinding Mode 🔥)  
 🎨 **Enhance UI/UX skills for Web Development**  
-📡 **Dive deeper into Full Stack Development & System Design**  
+📡 **Explore AI & System Design for Scalable Apps**  
 🎤 **Create tech content & share my journey with the world**  
 
 ---
 
 ## 🤝 Let's Connect & Build Something Awesome!  
 
-💬 I’m always open to **collaborations, brainstorming, and innovative ideas!** Let’s **push boundaries, break barriers, and create something legendary!**  
-
-📩 **Let's Talk Tech & Innovation!**  
+💬 I’m always open to **collaborations, brainstorming, and innovative ideas!**  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagendrasriram103"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
