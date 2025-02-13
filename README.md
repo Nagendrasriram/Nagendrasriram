@@ -56,7 +56,7 @@
   <!-- Terraform -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50px"/>
 </p>
-### 🛠️ **Tools & Technologies**
+### 🛠️ **Tools & Technologies**  
 <p>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
