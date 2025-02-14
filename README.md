@@ -111,15 +111,36 @@
 
 ---
 
-## 📊 **GitHub Stats – Because Numbers Speak Louder**  
+## 🚀 GitHub Stats – Entering God Mode! 🔥
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagendrasriram&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Nagendrasriram">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nagendrasriram&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Nagendra's GitHub Stats" />
+  </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagendrasriram&theme=radical" alt="GitHub Streak" />
+
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/Nagendrasriram">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagendrasriram&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendrasriram&layout=compact&theme=radical" alt="Most Used Languages">
+
+  <!-- Most Used Languages -->
+  <a href="https://github.com/Nagendrasriram">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendrasriram&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+  </a>
 </p>
+
+---
+
+### 🔥 **Level Up Your GitHub Presence!** 🔥  
+- **📈 Contributions & commit history** at a glance!  
+- **🚀 Most used languages** neatly displayed!  
+- **⚡ Streaks unlocked – consistency is key!**  
+- **🌌 Reactive activity graph for max impact!**  
+
+💻 **Keep coding & let your profile flex your skills!** 💪🚀
 
 ---
 
