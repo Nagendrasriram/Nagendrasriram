@@ -120,6 +120,11 @@
   </a>
   <br>
 
+  <!-- GitHub Streak -->
+<a href="https://github.com/Nagendrasriram">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagendrasriram&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>  
+
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/Nagendrasriram">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagendrasriram&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
