@@ -139,6 +139,13 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<a href="https://github.com/Nagendrasriram">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nagendrasriram&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</a>
+
+---
+
 ### 🔥 **Level Up Your GitHub Presence!** 🔥  
 - **📈 Contributions & commit history** at a glance!  
 - **🚀 Most used languages** neatly displayed!  
