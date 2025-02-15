@@ -156,7 +156,6 @@
 
 ---
 
-## 🤝 **Let's Connect & Build Together!**  
 
 ## 🚀 Let's Connect!
 <p align="center">
