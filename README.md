@@ -172,6 +172,9 @@
   <a href="https://portfolio-eight-sandy-19.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white">
   </a>
+  <a href="mailto:nagendra3feb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
