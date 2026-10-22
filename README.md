@@ -147,7 +147,7 @@
 
 ---
 
-## 🎯 **2025 Goals**  
+## 🎯 **2026 Goals**  
 ✔️ **Master Advanced Java DSA** (LeetCode, CodeChef, GeeksforGeeks)  
 ✔️ **Build Scalable Apps with Spring Boot & Microservices**  
 ✔️ **Explore AI, ML, and Blockchain**  
